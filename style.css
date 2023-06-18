@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(253, 165, 124, 0.884);
+}
+#score{
+    font-size: 20px;
+    margin-left: 70%;
+    font-weight: bold;
+    color: rgb(51, 16, 0);
+}
+
+#time{
+    color: rgb(51, 16, 0);
+    font-size: 20px;
+    margin-right: 70%;
+    font-weight: bold;
+}
+
+p{
+    color: rgb(51, 16, 0);
+    font-size:20px;
+    font-weight: bold;
+}
